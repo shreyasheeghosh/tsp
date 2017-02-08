@@ -1,4 +1,6 @@
-*.ipynb
+*.html
 *.swp
 *.xlsx
+*_draft.ipynb
+.ipynb_checkpoints/
 
